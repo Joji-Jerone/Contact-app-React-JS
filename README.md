@@ -37,6 +37,23 @@ Access the props using Render  props and map.
 (ie) const renderContactList = props.conmtact.map((contact) => {
 return() };
 
+Reference variable in JSX:-
+Create reference variable and use JSX elements to get them
+
+Adding Image :-
+User Icon image is added to every username.
+
+Using React Hooks (useState)
+->import React, { useState, useEffect } from 'react';
+
+P.s use setState to update states
+
+EG:-
+const [contacts, setContacts] = useState ([]);
+
+Adding Routers to the project:-
+
+command :-  npm install react-router-dom --save
 
 
 

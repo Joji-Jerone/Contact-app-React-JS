@@ -58,5 +58,14 @@ command :-  npm install react-router-dom --save
 
 
 
+Create a JSON server:-
+
+commands from https://github.com/typicode/json-server
+
+install Axios:-
+
+command : npm install axios
+
+
 
 
